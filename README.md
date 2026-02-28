@@ -4,7 +4,7 @@ A real-time American Sign Language (ASL) recognition system using computer visio
 
 ## 🎬 Demo
 
-Watch the demo video here: [Sign Language Recognition Demo](https://drive.google.com/file/d/1YWEmkDYSQKiGNSOkuP91ABNiCmToV_mX/view?usp=share_link)
+Watch the demo video here: [Sign Language Recognition Demo](https://1drv.ms/v/c/8e5c123864b3814d/IQCOqY6VXZZ4R6TzAJgsQmgOAayELeGtp0m0lgX_gvr-fLk?e=VXQyeP)
 
 ## ✨ Features
 
