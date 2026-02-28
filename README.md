@@ -41,7 +41,7 @@ Watch the demo video here: [Sign Language Recognition Demo](https://1drv.ms/v/c/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sudiptasarkar011/sign-language.git
+git clone https://github.com/bhagyashreepattanashetty430/sign-language.git
 cd sign-language
 ```
 
@@ -135,9 +135,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Sudipta Sarkar**
-- GitHub: [@sudiptasarkar011](https://github.com/sudiptasarkar011)
-- Email: sudiptasarkar.1108@gmail.com
+**Bhagyashree Shetty**
+- GitHub: [@bhagya51-shetty](https://github.com/bhagya51-shetty)
+- Email: bhagyashreepattanashetty430@gmail.com
 
 ---
 
